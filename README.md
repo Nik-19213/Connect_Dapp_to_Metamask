@@ -36,7 +36,10 @@ src Folder -
 ## In WalletCard.js you can find all these functions
 
 connectWalletHandler - For connecting the metamask wallet
+
 AccoutChangedHandler - Chainging account from metamask can cause this function to work
+
 chainChangedHandler - Chainging the chain network in the metamask can cause this function to work
+
 getAccountBalance - Get the Balance of the token/coin in your metamask wallet. 
 
